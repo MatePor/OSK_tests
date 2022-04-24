@@ -1,0 +1,11 @@
+Matusz,32,24,282
+Mateusz,41,29,222
+Kingula,32,30,335
+Kingula,37,38,282
+Kingula,38,45,303
+Kinga,37,33,330
+Mati,42,38,601
+Kkk,37,21,284
+Kinia,39,33,295
+mtusz,42,20,610
+Mati,39,37,301
